@@ -1,0 +1,6 @@
+[submodule "lib/cdk-snapshots"]
+	path = lib/cdk-snapshots
+	url = https://github.com/ThomasDickey/cdk-snapshots
+[submodule "lib/wabt-debugger"]
+	path = lib/wabt-debugger
+	url = https://github.com/Sable/wabt-debugger
